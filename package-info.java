@@ -1,1 +1,1 @@
-package tns;
+package TNSday3.scanner;
